@@ -87,7 +87,7 @@
 
 /* Hero section */
 .hero {
-  background-image: url("../assets/desktop_background.png");
+  background-image: url(../assets/desktop_background.png);
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
